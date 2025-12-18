@@ -1,3 +1,7 @@
+<div align="center" style="text-align:center; background-color:white;">
+<img width="500" height="500" alt="Logo Icon Transparente" src="https://github.com/user-attachments/assets/bb451fbd-812e-4043-9e3e-e2dc06503160" />
+</div>
+
 # ReadMaker: Personalize seu GitHub com liberdade
 
 Já se encontrou no momento de motivação e expectativa para o próximo passo na carreira Tech, porém, não sentia seu principal portfólio apresentável? 🤔
@@ -24,6 +28,8 @@ Ou pior, escutou de alguém importante que seu Github não estava preparado para
 Sem mais delongas, bem-vindo ao oásis do GitHub!
 
 # ReadMaker: Personalize seu GitHub com liberdade
+
+
 ## Autores
 
 - [@Alanzink1](https://www.github.com/alanzink1)
