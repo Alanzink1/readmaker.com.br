@@ -1,5 +1,5 @@
 <div align="center" style="text-align:center; background-color:white;">
-<img width="500" height="500" alt="Logo Icon Transparente" src="https://github.com/user-attachments/assets/bb451fbd-812e-4043-9e3e-e2dc06503160" />
+<img width="500" height="500" alt="Logo Icon Transparente" src="https://github.com/user-attachments/assets/fadea979-5699-4414-92bd-0c59518d953e" />
 </div>
 
 # ReadMaker: Personalize seu GitHub com liberdade
